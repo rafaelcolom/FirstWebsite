@@ -3,10 +3,21 @@ html{
 }
 
 h1{
+    text-align: center;
     color: blue;
 }
 
 img{
+    border: 1.5px solid;
+    margin-left: 43.85%;
     width: 150px;
     height: 200px;
+}
+
+div{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 25px;
 }
