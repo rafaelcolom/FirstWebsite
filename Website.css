@@ -14,10 +14,28 @@ img{
     height: 200px;
 }
 
-div{
+#bidDiv{
     background-color: white;
     margin-top: 50px;
     margin-left: 200px;
     margin-right: 200px;
     border-radius: 25px;
+    padding: 20px;
+}
+
+ul{
+    text-align: left;
+}
+
+#lilDiv{
+    background-color: lightgray;
+    width: 70%;
+    height: 70%;
+    margin-bottom: 20px;
+}
+
+table, th, td{
+    font-size: 25px;
+    border: 1px solid;
+    border-collapse: collapse;
 }
