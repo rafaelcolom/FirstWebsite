@@ -1,5 +1,6 @@
 html{
     background-color: lightblue;
+    font-family: Arial;
 }
 
 h1{
@@ -9,14 +10,14 @@ h1{
 
 img{
     border: 1.5px solid;
-    margin-left: 43.85%;
-    width: 150px;
-    height: 200px;
+    margin-left: 44.8%;
+    width: 125px;
+    height: 175px;
 }
 
-#bidDiv{
+#infoDiv{
     background-color: white;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: 200px;
     margin-right: 200px;
     border-radius: 25px;
@@ -27,15 +28,25 @@ ul{
     text-align: left;
 }
 
-#lilDiv{
+#tableDiv{
     background-color: lightgray;
+    padding: 20px;
     width: 70%;
     height: 70%;
     margin-bottom: 20px;
 }
 
 table, th, td{
-    font-size: 25px;
     border: 1px solid;
     border-collapse: collapse;
+    padding: 5px;
+    
+}
+
+th{
+    font-size: 30px;
+}
+
+td{
+    font-size: 20px;
 }
