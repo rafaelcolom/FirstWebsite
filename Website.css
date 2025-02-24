@@ -10,9 +10,14 @@ h1{
 
 img{
     border: 1.5px solid;
-    margin-left: 44.8%;
     width: 125px;
     height: 175px;
+}
+
+#ps5-image{
+    width: auto;
+    display: flex;
+    justify-content: center;
 }
 
 #infoDiv{
